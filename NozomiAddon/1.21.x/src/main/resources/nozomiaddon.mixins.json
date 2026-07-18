@@ -1,0 +1,33 @@
+{
+	"required": true,
+	"package": "net.otsutsukimiho.nozomiaddon.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+        "BossBarHudAccessor",
+		"GameRendererMixin",
+		"EntityRendererMixin",
+		"ItemEntityRendererMixin",
+		"HandledScreenAccessor",
+		"MixinHandledScreen",
+		"ClientWorldMixin",
+		"NameTagShadowMixin",
+		"PlayerEntityRendererMixin",
+		"MouseMixin",
+		"HideArmorMixin",
+		"HideHeadMixin",
+		"LeverBlockMixin",
+		"ArmorStandEntityMixin",
+		"KeepAliveMixin",
+		"MinecraftClientAccessor",
+		"MixinClientConnection",
+		"MixinClientPlayerInteraction",
+		"MixinClientPlayNetworkHandler",
+		"HandledScreenMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	},
+	"overwrites": {
+		"requireAnnotations": true
+	}
+}

@@ -1,0 +1,163 @@
+[
+    {
+        "Unit_Name": "Haruto",
+        "Unit_Class": "Warrior",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 10,
+            "Base_Magical": 0
+        }
+    },
+    {
+        "Unit_Name": "Ryuji",
+        "Unit_Class": "Gunner",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 10,
+            "Base_Magical": 0
+        }
+    },
+    {
+        "Unit_Name": "Aiko",
+        "Unit_Class": "Wizard",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 0,
+            "Base_Magical": 10
+        }
+    },
+    {
+        "Unit_Name": "Tora",
+        "Unit_Class": "Gunner",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 10,
+            "Base_Magical": 0
+        }
+    },
+    {
+        "Unit_Name": "Ohm",
+        "Unit_Class": "Warrior",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 10,
+            "Base_Physical": 15,
+            "Base_Magical": 0
+        }
+    },
+    {
+        "Unit_Name": "Megu",
+        "Unit_Class": "Wizard",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 0,
+            "Base_Magical": 50
+        }
+    },
+    {
+        "Unit_Name": "Fix",
+        "Unit_Class": "Warrior",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 10,
+            "Base_Physical": 20,
+            "Base_Magical": 0
+        }
+    },
+    {
+        "Unit_Name": "Beta",
+        "Unit_Class": "Gunner",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 15,
+            "Base_Magical": 0
+        }
+    },
+    {
+        "Unit_Name": "Shifu",
+        "Unit_Class": "Warrior",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 5,
+            "Base_Physical": 25,
+            "Base_Magical": 0
+        }
+    }
+    ,
+    {
+        "Unit_Name": "Maya",
+        "Unit_Class": "Priest",
+        "Unit_Level": 1,
+        "Unit_XP": 0,
+        "Attributes": {
+            "Health_Value": 0,
+            "Physical_Value": 0,
+            "Magical_Value": 0
+        },
+        "Base": {
+            "Base_Health": 15,
+            "Base_Physical": 0,
+            "Base_Magical": 20
+        }
+    }
+]

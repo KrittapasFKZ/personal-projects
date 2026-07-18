@@ -1,0 +1,32 @@
+{
+    "nozomibot": {
+        "version": "2.2.5",
+        "build": 932
+    },
+    "us": {
+        "xp_per": 70,
+        "xp_growth": 1.012,
+        "max_level": 500,
+        "vc_min": 16,
+        "vc_max": 30,
+        "msg_min": 20,
+        "msg_max": 32
+    },
+    "prefix": "!",
+    "old_vc_id": "704053629161832448",
+    "rt_attempt": 0,
+    "rt_count": 0,
+    "rt_time": "May 22, 2026, 9:57:22 PM",
+    "rt_error": "No Internet Connection",
+    "startTime": "2026-05-23T07:49:08.629Z",
+    "online_since": "May 23, 2026, 2:49:08 PM",
+    "last_backup": "May 23, 2026, 2:54:10 PM",
+    "lastLoggedDate": "Saturday, 23 May 2026",
+    "online_ping": true,
+    "audio_queue_logs": false,
+    "tts_status": true,
+    "fishing_status": true,
+    "farming_status": true,
+    "domain_expanded": false,
+    "domain_owner": ""
+}
