@@ -1,0 +1,17 @@
+{
+    "name": "&d&lNozomiAddon &bv0.8.5",
+    "description": "&fCreated by &6_PanCakeZ",
+    "author": "_PanCakeZ(NozomiSanZ)",
+    "entry": "index.js",
+    "version": "0.8.5",
+    "requires": [
+        "Vigilance",
+        "requestV2",
+        "PogData",
+        "PromiseV2",
+        "RenderLib",
+        "RenderLibV2",
+        "BloomCore",
+        "tska"
+    ]
+}
